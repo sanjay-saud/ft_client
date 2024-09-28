@@ -6,7 +6,7 @@ export const Footer = () => {
     <Container fluid className="bg-dark p-5">
       <Row className="text-center">
         <Col>
-          &copy; Copy right all reserved. || Made by <a href="">Prem </a>
+          &copy; Copy right all reserved. || Made by <a href="">Sanjay </a>
         </Col>
       </Row>
     </Container>
